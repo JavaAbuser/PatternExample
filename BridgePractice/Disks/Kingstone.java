@@ -9,9 +9,4 @@ public class Kingstone implements Disk{
     public int getVolume() {
         return volume;
     }
-
-    @Override
-    public int getMemoryVolume() {
-        return volume;
-    }
 }
